@@ -14,6 +14,7 @@
         <module>redis</module>
         <module>redis/redisson-cluster</module>
         <module>flow-engine</module>
+        <module>mq</module>
     </modules>
 
     <dependencyManagement>
