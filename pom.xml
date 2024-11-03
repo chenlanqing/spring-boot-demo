@@ -13,6 +13,7 @@
         <module>orm</module>
         <module>redis</module>
         <module>redis/redisson-cluster</module>
+        <module>flow-engine</module>
     </modules>
 
     <dependencyManagement>
