@@ -11,6 +11,8 @@
     <modules>
         <module>common</module>
         <module>orm</module>
+        <module>redis</module>
+        <module>redis/redisson-cluster</module>
     </modules>
 
     <dependencyManagement>
