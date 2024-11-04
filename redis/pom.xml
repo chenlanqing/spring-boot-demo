@@ -14,6 +14,7 @@
     <modules>
         <module>jedis-single</module>
         <module>redisson-single</module>
+        <module>redis-lua</module>
     </modules>
 
     <properties>
