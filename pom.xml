@@ -12,9 +12,9 @@
         <module>common</module>
         <module>orm</module>
         <module>redis</module>
-        <module>redis/redisson-cluster</module>
         <module>flow-engine</module>
         <module>mq</module>
+        <module>async</module>
     </modules>
 
     <dependencyManagement>
